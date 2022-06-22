@@ -4,23 +4,12 @@
 # Project home page:
 # https://github.com/AdAway/adaway.github.io/
 #
-# Fetch the latest version of this file:
-# https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
-#
 # License:
 # CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
 #
 # Contributions by:
-# Kicelo, Dominik Schuermann.
-# Further changes and contributors maintained in the commit history at
-# https://github.com/AdAway/adaway.github.io/commits/master
+# Kicelo, Dominik Schuermann, NIGHTZNERO.
 #
-# Contribute:
-# Create an issue at https://github.com/AdAway/adaway.github.io/issues
-#
-
-|| localhost
-::1  localhost
 
 # [163.com]
 ||analytics.163.com
