@@ -1,7 +1,7 @@
-﻿# AdAway default blocklist
+﻿# AdAway x NIGHTZNERO BlockList
 # Blocking mobile ad providers and some analytics providers
 #
-# Project home page:
+# Main Project home page:
 # https://github.com/AdAway/adaway.github.io/
 #
 # License:
@@ -9,6 +9,9 @@
 #
 # Contributions by:
 # Kicelo, Dominik Schuermann, NIGHTZNERO.
+#
+# Version:
+# 2022.06.22
 #
 
 # [163.com]
